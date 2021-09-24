@@ -1,5 +1,5 @@
 $(document).ready(function () {
-
+/*
 	$('#js-main-slider').pogoSlider({
 		autoplay: true,
 		autoplayTimeout: 5000,
@@ -15,5 +15,5 @@ $(document).ready(function () {
 		generateNav: false,
 		generateButtons: false
 	}
-
+*/
 });
