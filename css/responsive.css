@@ -1,11 +1,13 @@
 /* only small desktops */
 /* tablets */
-
 @media (min-width: 992px) and (max-width: 1500px) {
 
 .pogoSlider-slide {
     background-size: 100% auto !important;
 }
+.jumbotron {
+	height: 80vh;
+  }
 
 }
 
@@ -285,6 +287,9 @@
     margin-top: 20px;
 }
 
+.jumbotron {
+	height: 50vh;
+  }
 }
 
 @media (min-width: 576px) and (max-width: 767px) {
@@ -746,6 +751,8 @@ form.news_submit_form .field button {
     margin-top: 35px !important;
     float: left;
 }
-
+.jumbotron {
+	height: 40vh;
+  }
 }
  
