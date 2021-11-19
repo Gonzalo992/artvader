@@ -3001,3 +3001,9 @@ footer.footer-box .heading_main h2 {
 	z-index: 2;
 	position: relative;
   }
+
+/*aprendizaje*/
+.aprendizaje iframe{
+	width:100% !important;
+	height:100% !important;
+}
