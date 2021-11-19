@@ -3003,7 +3003,6 @@ footer.footer-box .heading_main h2 {
   }
 
 /*aprendizaje*/
-.aprendizaje iframe{
+.aprendizaje .video{
 	width:100% !important;
-	height:100% !important;
 }
